@@ -41,3 +41,13 @@
 
 Καταμέτρηση των οχημάτων αλλά και του συνολικού φορτίου που έχει περάσει πάνω από το οδόστρωμα σε πραγματικό χρόνο, με στόχο την ανάπτυξη μοντέλου υπολογισμού της καταπόνησης του οδοστρώματος αλλά και πρόβλεψης για το πότε θα χρειαστεί επισκευή προληπτικά. Με αυτόν τον τρόπο θα μειωθεί ακόμα περισσότερο το κόστος συντήρησης του οδοστρόματος. 
  
+Τα παιδιά θα χρειαστούν για την υλοποίηση του Project τους τα παρακάτω υλικά:
+
+Drone(Σμηα) Parrot Anafi:
+https://www.homelike.gr/paichnidia/parrot-anafi-pf728000.html?skr_prm=WyJkOTJjOTIyNi0wZGNmLTQyYzQtOTQxMC0zOGYwZDYyODQ1ZjgiLDE2MTU1NjQwNjE0OTcseyJhcHBfdHlwZSI6IndlYiIsImNwIjoiZiIsInRhZ3MiOiJjbXItYyJ9XQ 
+
+Μαξιλάρι προσγείωσης Σμηα:
+https://www.copters.gr/pgytech-drone-landing-pad-55cm.html
+
+
+
