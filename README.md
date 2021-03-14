@@ -1,5 +1,5 @@
 # Χαρτογράφηση Και Γεωγραφικός Εντοπισμός Ζημιών του Οδοστρώματος Με Χρήση Drone(Σμηα) και Machine Learning
-
+  <br/>
 <p align="center">
   <img width="400" height="400" src="https://user-images.githubusercontent.com/38980233/111069476-e502d280-84d5-11eb-8935-671c62c0d074.jpeg">
 </p>
@@ -33,11 +33,11 @@
  
 ## Ανάλυση συστήματος
 Στο παρακάτω διάγραμμα απεικονίζονται οι διακριτές ενέργειες για την υλοποίηση του προτεινόμενου συστήματος γδνδ.
-
+  <br/>
 <p align="center">
   <img width="400" height="400" src="https://user-images.githubusercontent.com/38980233/111069486-f1872b00-84d5-11eb-95e2-648c32c8f637.png">
 </p>
-
+  <br/>
 
 
 
