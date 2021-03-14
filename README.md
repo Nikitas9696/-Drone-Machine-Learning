@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a>Όνομα Ομάδας : Master Builders<a/>
+<b>Όνομα Ομάδας : Master Builders<b/>
 </p>
 <p align="center"
 <a>Μέλη Ομάδας : <a/>
