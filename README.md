@@ -3,7 +3,7 @@
 # Χαρτογράφηση Και Γεωγραφικός Εντοπισμός Ζημιών του Οδοστρώματος Με Χρήση Drone(Σμηα) και Machine Learning
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/38980233/111069476-e502d280-84d5-11eb-8935-671c62c0d074.jpeg">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/38980233/111069476-e502d280-84d5-11eb-8935-671c62c0d074.jpeg">
 </p>
 
 
