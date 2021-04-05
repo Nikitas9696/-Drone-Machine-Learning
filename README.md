@@ -64,7 +64,7 @@
 
 ## Για την υλοποίηση του Project είναι απαραίτητα τα παρακάτω υλικά:
 
-- [x] Drone(Σμηα) Parrot Anafi: https://3dmall.gr/drones/5758-parrot-anafi-drone-standard-4k.html?skr_prm=WyJlMGU0YzY2MC1kNjQzLTRlZjctYjNhNS0xYTEyZmNmMDllZWYiLDE2MTcxMTA1MDcyMjcseyJhcHBfdHlwZSI6IndlYiIsImNwIjoiZiIsInRhZ3MiOiIifV0
+- [x] Drone(Σμηα) Parrot Anafi:https://3dmall.gr/drones/4041-parrot-anafi-extended-drone.html?skr_prm=WyJlMGU0YzY2MC1kNjQzLTRlZjctYjNhNS0xYTEyZmNmMDllZWYiLDE2MTc2Mjk3Njc1MTMseyJhcHBfdHlwZSI6IndlYiIsImNwIjoiZiIsInRhZ3MiOiIifV0
 - [x] Μαξιλάρι προσγείωσης Σμηα (Landing Pad) : https://www.copters.gr/pgytech-drone-landing-pad-55cm.html
 
 
