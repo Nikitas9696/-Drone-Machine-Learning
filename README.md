@@ -1,4 +1,4 @@
-# Χαρτογράφηση Και Γεωγραφικός Εντοπισμός Ζημιών του Οδοστρώματος Με Χρήση Drone(Σμηα) και Machine Learning
+# Χαρτογράφηση Και Γεωγραφικός Εντοπισμός Ζημιών του Οδοστρώματος Με Χρήση Drone(Σμηεα) και Machine Learning
   <br/>
 <p align="center">
   <img width="400" height="400" src="https://user-images.githubusercontent.com/38980233/111069476-e502d280-84d5-11eb-8935-671c62c0d074.jpeg">
@@ -64,7 +64,7 @@
 
 ## Για την υλοποίηση του Project είναι απαραίτητα τα παρακάτω υλικά:
 
-- [x] Drone(Σμηα) Parrot Anafi:https://3dmall.gr/drones/4041-parrot-anafi-extended-drone.html?skr_prm=WyJlMGU0YzY2MC1kNjQzLTRlZjctYjNhNS0xYTEyZmNmMDllZWYiLDE2MTc2Mjk3Njc1MTMseyJhcHBfdHlwZSI6IndlYiIsImNwIjoiZiIsInRhZ3MiOiIifV0
+- [x] Drone(Σμηεα) Parrot Anafi:https://3dmall.gr/drones/4041-parrot-anafi-extended-drone.html?skr_prm=WyJlMGU0YzY2MC1kNjQzLTRlZjctYjNhNS0xYTEyZmNmMDllZWYiLDE2MTc2Mjk3Njc1MTMseyJhcHBfdHlwZSI6IndlYiIsImNwIjoiZiIsInRhZ3MiOiIifV0
 - [x] Μαξιλάρι προσγείωσης Σμηα (Landing Pad) : https://www.copters.gr/pgytech-drone-landing-pad-55cm.html
 
 
